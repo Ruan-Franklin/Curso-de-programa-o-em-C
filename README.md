@@ -1,1 +1,1 @@
-# Curso-de-programa-o-em-C
+O repositório representa um curso de programação em Linguagem C.
