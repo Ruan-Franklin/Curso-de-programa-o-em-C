@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-/*Aula 04: Lendo números inteiros */
-
 int main(){
     /*Nós precisamos armazenar um pedaço da memória para guardar um número. */
     int valor; //Criei uma variável para guardar um valor do tipo inteiro.
