@@ -1,5 +1,5 @@
 Comandos git necessários:
 git add .
 git remote add origin https://github.com/Ruan-Franklin/Curso-de-programa-o-em-C.git
-git commit -m "Subindo arquivos da aula anterior"
+git commit -m "Subindo arquivos da aula  8"
 git push origin master
