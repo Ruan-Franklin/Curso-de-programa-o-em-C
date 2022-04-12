@@ -1,0 +1,45 @@
+Aula 15: Unidades de medida na computação.  | Unidades de medidas na computação bit byte kB MB GB TB PB EB ZB YB
+
+bit
+*********************
+Bit é a menor unidade de medida. A palavra bit vem do inglês e é uma abreviação de binary digit. É a  menor unidade de armazenamento, suportando um único digito binário 0 ou 1.
+*********************
+Byte
+*********************
+Um conjunto de 8 bits forma um byte.
+8 bits = 1 byte.
+
+Kilobyte
+*********************
+1024 bytes = 1 Kilobyte 
+
+Megabyte
+*********************
+
+1024 Kylobytes = 1 Megabyte
+*********************
+Gigabyte
+*********************
+1024 Megabyte = 1 Gigabyte
+**********************
+Terabyte
+**********************
+1024 Gigabyte = 1 Terabyte
+**********************
+Petabyte
+**********************
+1024 Terabyte = 1 Petabyte
+**********************
+Exabyte
+**********************
+1024 Petabyte = 1 Exabyte
+***********************
+Zettabyte
+************************
+1024 Exabyte = 1 Zettabyte
+************************
+Yottabyte
+************************
+1024 Zettabyte = 1 Yottabyte
+
+ 
