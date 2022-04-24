@@ -1,0 +1,4 @@
+           Aula 30: Endentação e uso das chaves em linguagem C.
+
+Quando só tem uma execução a ser feita dentro do if ou do else, não é necessário utilizar chaves.
+O else só funciona se vir logo em seguida de um if.
