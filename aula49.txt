@@ -1,0 +1,3 @@
+                    Aula 49: Else if encadeados na Linguagem C
+
+O Else if é basicamente o elif do Python, segue a mesma onda de "terceira via".
